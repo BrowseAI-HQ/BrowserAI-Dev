@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <!-- Left-chest print, ~4in wide. Two inks on dark garment. -->
+  <circle cx="72" cy="92" r="52" fill="#F97316"/>
+  <line x1="111" y1="131" x2="138" y2="158" stroke="#F97316" stroke-width="24" stroke-linecap="round"/>
+  <path d="M47 94 L66 113 L98 75" stroke="#000000" stroke-width="15" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="170" y="122" font-family="Helvetica, Arial, sans-serif" font-size="84" font-weight="700" letter-spacing="-2" fill="#FFFFFF">LastSearch<tspan fill="#F97316" font-weight="800">.</tspan></text>
+</svg>
