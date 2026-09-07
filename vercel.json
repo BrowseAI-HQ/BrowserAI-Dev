@@ -7,15 +7,25 @@
   "redirects": [
     {
       "source": "/:path((?!api/).*)",
-      "has": [{ "type": "host", "value": "browseai.dev" }],
+      "has": [
+        {
+          "type": "host",
+          "value": "browseai.dev"
+        }
+      ],
       "destination": "https://lastsearch.ai/:path",
-      "permanent": false
+      "permanent": true
     },
     {
       "source": "/:path((?!api/).*)",
-      "has": [{ "type": "host", "value": "www.browseai.dev" }],
+      "has": [
+        {
+          "type": "host",
+          "value": "www.browseai.dev"
+        }
+      ],
       "destination": "https://lastsearch.ai/:path",
-      "permanent": false
+      "permanent": true
     }
   ]
 }
