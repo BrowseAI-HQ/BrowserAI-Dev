@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560">
+  <!-- Center-chest print, ~10in wide: the terminal shirt. Two inks on dark garment. -->
+  <rect x="40" y="40" width="1120" height="480" rx="36" fill="none" stroke="#FFFFFF" stroke-width="6"/>
+  <circle cx="110" cy="110" r="14" fill="#F97316"/>
+  <circle cx="160" cy="110" r="14" fill="#FFFFFF" opacity="0.55"/>
+  <circle cx="210" cy="110" r="14" fill="#FFFFFF" opacity="0.25"/>
+  <text x="110" y="300" font-family="Menlo, 'Courier New', monospace" font-size="72" font-weight="700" fill="#FFFFFF">$ npx <tspan fill="#F97316">lastsearch</tspan></text>
+  <text x="110" y="420" font-family="Menlo, 'Courier New', monospace" font-size="52" fill="#FFFFFF"><tspan fill="#F97316">✓</tspan> every claim verified<tspan fill="#F97316">.</tspan></text>
+</svg>
